@@ -1,6 +1,6 @@
 # 📊 Employee & Project Analytics (Python Capstone)
 
-A **portfolio-ready data analytics project** demonstrating end-to-end data handling using **Python, pandas, and NumPy**.  
+Demonstrating end-to-end data handling using **Python, pandas, and NumPy**.  
 This project simulates a real-world **HR & project management dataset**, applying structured business rules to transform raw data into insights.
 
 > ✅ Built as part of a hands-on Python capstone  
